@@ -1,0 +1,19 @@
+{
+  "name": "Deb822",
+  "description": "Deb822 Parser",
+  "version": "0.0.1",
+  "perl": "6.*",
+  "authors": [
+    "Élerille"
+  ],
+  "auth": "github:elerille",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Deb822": "lib/Deb822.pm6"
+  },
+  "resources": [],
+  "license": "GPL-3.0-or-later",
+  "source-url": "git://github.com/elerille/raku-deb822.git"
+}

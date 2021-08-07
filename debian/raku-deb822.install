@@ -1,0 +1,4 @@
+lib/* usr/share/perl6/debian-sources/raku-deb822/lib
+t/* usr/share/perl6/debian-sources/raku-deb822/t
+META* usr/share/perl6/debian-sources/raku-deb822
+README* usr/share/doc/raku-deb822/

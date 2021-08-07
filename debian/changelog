@@ -1,0 +1,5 @@
+raku-deb822 (0.0.1-1) UNRELEASED; urgency=medium
+
+  * Create package for Raku module Deb822
+
+ -- Élerille <elerille+debian@thran.io>  Sat, 07 Aug 2021 15:26:09 +0200
